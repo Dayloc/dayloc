@@ -23,7 +23,7 @@
 ---
 
 ### 🛠️ Tech Stack
-  <img src="[https://komarev.com/ghpvc/?username=dayloc&label=Profile%20views&color=0e75b6&style=flat" alt="dayloc](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayloc&theme=tokyonight)" />
+
 
 ```bash
 Languages:    Python | JavaScript | TypeScript | HTML | CSS | SQL
