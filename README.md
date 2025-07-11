@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flask+%7C+React+%7C+SQLAlchemy;Lover+of+Clean+Code+%26+APIs;Building+future-ready+apps+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Flask+%7C+React+%7C+SQLAlchemy;Clean+Code+Lover;APIs+%26+automation+enthusiast" alt="Typing animation" />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Dayloc</h1>
 <h3 align="center">A passionate Full Stack Developer from Cuba 🇨🇺</h3>
