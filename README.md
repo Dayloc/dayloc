@@ -32,7 +32,7 @@ Tools:        Git | VSCode | Postman | Figma | Insomnia
 
 ⚙️ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-main-dayloc.vercel.app/api?username=dayloc&show_icons=true&theme=tokyonight" alt="Dayloc GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayloc&theme=tokyonight" />
 </p>
 
 🌟 Featured Projects
