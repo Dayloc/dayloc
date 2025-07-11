@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full Stack Developer from Cuba 🇨🇺</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dayloc&label=Profile%20views&color=0e75b6&style=flat" alt="dayloc" />
+  <img src="[https://komarev.com/ghpvc/?username=dayloc&label=Profile%20views&color=0e75b6&style=flat" alt="dayloc](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayloc&theme=tokyonight)" />
 </p>
 
 ---
