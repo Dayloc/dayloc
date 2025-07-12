@@ -14,7 +14,7 @@
 - 🌱 I’m learning: **React Native, SQLAlchemy (modern style), and API REST best practices**
 - 👨‍💻 All my projects are available at: [my portfolio](https://yourportfolio.com) <!-- reemplaza con tu link -->
 - 💬 Ask me about: Flask, Python, REST APIs, SQLAlchemy, GitHub, and more
-- 📫 How to reach me: **dayloc.dev@gmail.com** <!-- o tu correo -->
+- 📫 How to reach me: **daylocyumar@gmail.com** <!-- o tu correo -->
 
 
 
