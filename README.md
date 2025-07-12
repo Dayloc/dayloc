@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dayloc</h1>
 <h3 align="center">A passionate Full Stack Developer from Cuba</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F750&center=true&vCenter=true&width=500&lines=🌌+Star+Wars+API;Explore+the+Galaxy%2C+One+Endpoint+at+a+Time" alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=700&lines=%F0%9F%8C%8C+Star+Wars+API;Explore+the+Galaxy+One+Endpoint+at+a+Time;Built+with+Flask+%2B+SQLAlchemy+%2B+JWT" alt="typing animation" />
 </p>
 
 
