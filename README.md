@@ -1,24 +1,29 @@
+<h1 align="center" style="color:#00ffff;">🚀 Dayloc's Futuristic Dev Zone</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Flask+%7C+React+%7C+SQLAlchemy;Clean+Code+Lover;APIs+%26+automation+enthusiast" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&color=00FFFF&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Dayloc;Full+Stack+Dev+from+Cuba;Flask+%7C+React+%7C+SQLAlchemy+Lover;Clean+Code+%7C+Dark+Mode+Fan" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Dayloc</h1>
-<h3 align="center">A passionate Full Stack Developer from Cuba 🇨🇺</h3>
-
-
-
-
 
 ---
 
-### 💻 About Me
+## 🧠 About Me
 
-- 🔭 I’m currently working on: `AppointmentHealthCenter` – a Flask-based health center API
-- 🌱 Currently learning: **React Native**, **modern SQLAlchemy**, and **REST API best practices**
-- 🧠 Focused on backend development and database design
-- 👨‍💻 Check out my work at: [my portfolio](https://yourportfolio.com) <!-- cambia el link -->
-- 💬 Ask me about: **Flask, Python, REST APIs, SQLAlchemy, GitHub**
-- 📫 How to reach me: **dayloc.dev@gmail.com**
+- 🏥 Building: `AppointmentHealthCenter` — a health system API in Flask.
+- 🔭 Learning: `React Native`, `modern SQLAlchemy`, and `REST best practices`.
+- ⚙️ Focused on backend development and DB architecture.
+- 💼 Portfolio: [My Futuristic CV](https://your-portfolio-link.com)
+- 💬 Ask me about: `Flask`, `REST APIs`, `SQLAlchemy`, `GitHub`.
+- 📧 Contact: **[dayloc.dev@gmail.com](mailto:dayloc.dev@gmail.com)**
+
+---
+
+## 🧬 Tech Stack
+
+```txt
+Languages:    Python | JavaScript | TypeScript | HTML | CSS | SQL
+Frameworks:   Flask | SQLAlchemy | React | React Native (Learning)
+Tools:        Git | VSCode | Postman | Figma | Insomnia
+
 
 ---
 
