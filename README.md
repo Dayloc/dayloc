@@ -37,6 +37,7 @@ Tools:        Git | VSCode | Postman | Figma | Insomnia
 </p>
 
 
+
 🌟 Featured Projects
 🏥 AppointmentHealthCenter
 RESTful API for managing medical appointments, patients, doctors, and reports – built with Flask + SQLAlchemy.
@@ -49,7 +50,7 @@ A sleek and professional CV/portfolio built with React, styled with Tailwind and
 
 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/tu-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dayloc.dev@gmail.com">
