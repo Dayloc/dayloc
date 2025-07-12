@@ -48,4 +48,11 @@ REST API project to explore characters, planets and user favorites in the Star W
 A sleek and professional CV/portfolio built with React, styled with Tailwind and animations.
 
 📫 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:dayloc.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dayloc.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
