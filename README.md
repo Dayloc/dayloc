@@ -30,10 +30,11 @@ Languages:    Python | JavaScript | TypeScript | HTML | CSS | SQL
 Frameworks:   Flask | SQLAlchemy | React | React Native (learning)
 Tools:        Git | VSCode | Postman | Figma | Insomnia
 
-
 ⚙️ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayloc&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dayloc&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 
 🌟 Featured Projects
