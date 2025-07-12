@@ -1,3 +1,22 @@
+<h1 align="center">Hi 👋, I'm Dayloc</h1>
+<h3 align="center">A passionate Full Stack Developer from Cuba</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dayloc&label=Profile%20views&color=0e75b6&style=flat" alt="dayloc" />
+</p>
+
+---
+
+### 💻 About Me
+
+- 🔭 I’m currently working on: `AppointmentHealthCenter` with Flask + SQLAlchemy
+- 🌱 I’m learning: **React Native, SQLAlchemy (modern style), and API REST best practices**
+- 👨‍💻 All my projects are available at: [my portfolio](https://yourportfolio.com) <!-- reemplaza con tu link -->
+- 💬 Ask me about: Flask, Python, REST APIs, SQLAlchemy, GitHub, and more
+- 📫 How to reach me: **dayloc.dev@gmail.com** <!-- o tu correo -->
+
+
+
 ## 🛠️ Tech Stack
 
 **Languages:** Python | JavaScript | TypeScript | HTML | CSS | SQL  
