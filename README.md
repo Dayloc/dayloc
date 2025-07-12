@@ -30,7 +30,7 @@ Languages:    Python | JavaScript | TypeScript | HTML | CSS | SQL
 Frameworks:   Flask | SQLAlchemy | React | React Native (learning)
 Tools:        Git | VSCode | Postman | Figma | Insomnia
 
-⚙️ GitHub Stats
+## ⚙️ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayloc&show_icons=true&theme=tokyonight)
 
@@ -46,12 +46,6 @@ REST API project to explore characters, planets and user favorites in the Star W
 👨‍🚀 My Futuristic Portfolio
 A sleek and professional CV/portfolio built with React, styled with Tailwind and animations.
 
-📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:dayloc.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayloc.dev@gmail.com)
