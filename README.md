@@ -32,13 +32,7 @@ Tools:        Git | VSCode | Postman | Figma | Insomnia
 
 ⚙️ GitHub Stats
 
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayloc&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</td>
-</tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayloc&show_icons=true&theme=tokyonight)
 
 
 
