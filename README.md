@@ -36,8 +36,6 @@
 ### 🏥 AppointmentHealthCenter  
 RESTful API for managing medical appointments, patients, doctors, and reports – built with Flask + SQLAlchemy.
 
-### 🌌 Star Wars API  
-REST API project to explore characters, planets and user favorites in the Star Wars universe.
 
 ### 👨‍🚀 My  Portfolio  
 https://Dayloc.github.io/Port-Folio-1.1
