@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on: `AppointmentHealthCenter` with Flask + SQLAlchemy
 - 🌱 I’m learning: **React Native, SQLAlchemy (modern style), and API REST best practices**
-- 👨‍💻 All my projects are available at: [A sleek and professional CV/portfolio built with React, styled with Bootstrap and animations.]([https://github.com/Dayloc/Port-Folio-1.1.git](https://Dayloc.github.io/Port-Folio-1.1))
+- 👨‍💻 All my projects are available at: https://Dayloc.github.io/Port-Folio-1.1
 - 💬 Ask me about: Flask, Python, REST APIs, SQLAlchemy, GitHub, and more
 - 📫 How to reach me: **daylocyumar@gmail.com** <!-- o tu correo -->
 
