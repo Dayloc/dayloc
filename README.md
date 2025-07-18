@@ -40,7 +40,7 @@ RESTful API for managing medical appointments, patients, doctors, and reports �
 REST API project to explore characters, planets and user favorites in the Star Wars universe.
 
 ### 👨‍🚀 My  Portfolio  
-[[A sleek and professional CV/portfolio built with React, styled with Tailwind and animations.](https://github.com/Dayloc/Port-Folio-1.1.git)](https://Dayloc.github.io/Port-Folio-1.1)
+https://Dayloc.github.io/Port-Folio-1.1
 
 ---
 
