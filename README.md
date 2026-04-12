@@ -1,49 +1,77 @@
-<h1 align="center">Hi 👋, I'm Dayloc</h1>
-<h3 align="center">A passionate Full Stack Developer from Cuba</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=700&lines=%F0%9F%8C%8C+Star+Wars+API;Explore+the+Galaxy+One+Endpoint+at+a+Time;Built+with+Flask+%2B+SQLAlchemy+%2B+JWT" alt="typing animation" />
-</p>
+# Hi, I'm Dayloc
 
+### Odoo Developer focused on clean modules, business logic, debugging, testing, and technical documentation
 
----
-
-### 💻 About Me
-
-- 🔭 I’m currently working on: `AppointmentHealthCenter` with Flask + SQLAlchemy
-- 🌱 I’m learning: **React Native, SQLAlchemy (modern style), and API REST best practices**
-- 👨‍💻 All my projects are available at: https://Dayloc.github.io/Port-Folio-1.1
-- 💬 Ask me about: Flask, Python, REST APIs, SQLAlchemy, GitHub, and more
-- 📫 How to reach me: **daylocyumar@gmail.com** <!-- o tu correo -->
-
-
-
-## 🛠️ Tech Stack
-
-**Languages:** Python | JavaScript | TypeScript | HTML | CSS | SQL  
-**Frameworks:** Flask | SQLAlchemy | React | React Native (Learning)  
-**Tools:** Git | VSCode | Postman | Figma | Insomnia  
+I build and improve Odoo solutions with a strong focus on maintainability, clear structure, and real business workflows. I also work on backend and full stack projects with Python, Flask, SQLAlchemy, JavaScript, and React.
 
 ---
 
-## ⚙️ GitHub Stats
+## Main Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayloc&show_icons=true&theme=tokyonight)
-
----
-
-## 🌟 Featured Projects
-
-### 🏥 AppointmentHealthCenter  
-RESTful API for managing medical appointments, patients, doctors, and reports – built with Flask + SQLAlchemy.
-
-
-### 👨‍🚀 My  Portfolio  
-https://Dayloc.github.io/Port-Folio-1.1
+- Odoo development and customization
+- Odoo module architecture
+- Models, fields, relationships, and business logic
+- Debugging install, XML, access, and runtime issues
+- Odoo testing, review, and documentation
 
 ---
 
-## 📫 Connect with Me
+## About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayloc-prieto
-)
+- Currently focused on Odoo development and specialized workflows for coding with Codex
+- Interested in building practical systems that are easy to maintain and scale
+- Also experienced with Flask, REST APIs, SQLAlchemy, JavaScript, and React
+- Portfolio: [Dayloc Portfolio](https://Dayloc.github.io/Port-Folio-1.1)
+- Contact: **daylocyumar@gmail.com**
+
+---
+
+## Tech Stack
+
+**Main skill:** Odoo  
+**Backend:** Python, Flask, SQLAlchemy  
+**Frontend:** JavaScript, TypeScript, React, HTML, CSS  
+**Tools:** Git, GitHub, VS Code, Postman, Insomnia, Figma  
+
+---
+
+## Featured Repositories
+
+### [Odoo](https://github.com/Dayloc/Odoo)
+Main repository centered on Odoo work and development practice.
+
+### [Peticiones-Odoo](https://github.com/Dayloc/Peticiones-Odoo)
+Repository related to Odoo requests and hands-on exercises around the framework.
+
+### [AppointmentHealthCenter](https://github.com/Dayloc/AppointmentHealthCenter)
+REST API for managing medical appointments, patients, doctors, and reports with Flask and SQLAlchemy.
+
+### [skill-openia](https://github.com/Dayloc/skill-openia)
+Personal Codex skills repository with specialized agents for Odoo programming, testing, review, debugging, and documentation.
+
+---
+
+## Workflow
+
+My preferred development flow for Odoo work is:
+
+1. Design the module or feature clearly
+2. Implement clean backend logic
+3. Validate with targeted tests
+4. Review structure and maintainability
+5. Debug root causes instead of patching symptoms
+6. Document the result for future developers
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dayloc&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayloc&layout=compact&theme=tokyonight)
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayloc-prieto)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daylocyumar@gmail.com)
