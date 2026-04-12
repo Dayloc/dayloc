@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/odoo.png" alt="Dayloc Odoo Banner" width="100%" />
+  <img src="./assets/odoo.png" alt="Banner Odoo de Dayloc" width="100%" />
 </div>
 
 <div align="center">
@@ -7,40 +7,40 @@
 </div>
 
 <h1 align="center">Dayloc</h1>
-<h3 align="center">Odoo Developer | Backend Builder | Debugging and Automation Mindset</h3>
+<h3 align="center">Desarrollador Odoo | Backend | Debugging y Automatización</h3>
 
 <p align="center">
-  <a href="https://github.com/Dayloc/Odoo"><img src="https://img.shields.io/badge/Main%20Focus-Odoo-6f42c1?style=for-the-badge" alt="Odoo" /></a>
+  <a href="https://github.com/Dayloc/Odoo"><img src="https://img.shields.io/badge/Enfoque%20Principal-Odoo-6f42c1?style=for-the-badge" alt="Odoo" /></a>
   <a href="https://github.com/Dayloc/skill-openia"><img src="https://img.shields.io/badge/Codex-Skills-0ea5e9?style=for-the-badge" alt="Codex Skills" /></a>
-  <a href="mailto:daylocyumar@gmail.com"><img src="https://img.shields.io/badge/Contact-Gmail-e11d48?style=for-the-badge" alt="Gmail" /></a>
+  <a href="mailto:daylocyumar@gmail.com"><img src="https://img.shields.io/badge/Contacto-Gmail-e11d48?style=for-the-badge" alt="Gmail" /></a>
 </p>
 
 <p align="center">
-  Building Odoo systems with clean architecture, sharp debugging, maintainable modules, and a practical workflow for real business logic.
+  Construyendo soluciones en Odoo con arquitectura limpia, debugging preciso, módulos mantenibles y un enfoque práctico para la lógica de negocio real.
 </p>
 
 ---
 
-## Futuristic Profile
+## Perfil Futurista
 
-I work with a builder mindset: understand the process, design the right model, implement the feature cleanly, validate it, and leave it easier to maintain than before.
+Trabajo con mentalidad de constructor: entender el proceso, diseñar el modelo correcto, implementar la funcionalidad con claridad, validarla bien y dejarla más mantenible de lo que estaba antes.
 
-My strongest focus is Odoo development:
+Mi enfoque principal está en el desarrollo con Odoo:
 
-- Custom Odoo modules
-- Models, fields, and relationships
-- Business logic and backend workflows
-- XML views, access rules, and permissions
-- Debugging install, update, and runtime errors
-- Testing, review, and technical documentation
+- Módulos Odoo a medida
+- Modelos, campos y relaciones
+- Lógica de negocio y procesos backend
+- Vistas XML, reglas de acceso y permisos
+- Debugging de errores de instalación, actualización y ejecución
+- Testing, revisión y documentación técnica
 
 ---
 
-## Core Stack
+## Stack Principal
 
 <table>
   <tr>
-    <td><strong>Main Platform</strong></td>
+    <td><strong>Plataforma principal</strong></td>
     <td>Odoo</td>
   </tr>
   <tr>
@@ -52,62 +52,62 @@ My strongest focus is Odoo development:
     <td>JavaScript, TypeScript, React, HTML, CSS</td>
   </tr>
   <tr>
-    <td><strong>Tooling</strong></td>
+    <td><strong>Herramientas</strong></td>
     <td>Git, GitHub, VS Code, Postman, Insomnia, Figma</td>
   </tr>
 </table>
 
 ---
 
-## Featured Repositories
+## Repositorios Destacados
 
 ### [Odoo](https://github.com/Dayloc/Odoo)
-Main repository centered on Odoo work, experimentation, and framework practice.
+Repositorio principal centrado en trabajo, experimentación y práctica con el framework Odoo.
 
 ### [Peticiones-Odoo](https://github.com/Dayloc/Peticiones-Odoo)
-Hands-on Odoo repository focused on requests, exercises, and implementation practice.
+Repositorio práctico orientado a ejercicios, peticiones e implementación con Odoo.
 
 ### [AppointmentHealthCenter](https://github.com/Dayloc/AppointmentHealthCenter)
-Medical appointments API built with Flask and SQLAlchemy, showing backend structure and domain modeling.
+API para gestionar citas médicas con Flask y SQLAlchemy, mostrando estructura backend y modelado de dominio.
 
 ### [skill-openia](https://github.com/Dayloc/skill-openia)
-Codex skills collection for Odoo programming, testing, review, debugging, and technical documentation.
+Colección de skills para Codex orientadas a programación, testing, revisión, debugging y documentación técnica para Odoo.
 
 ---
 
-## How I Work
+## Cómo Trabajo
 
-1. Understand the business need first.
-2. Build the smallest clean solution.
-3. Keep models, views, and security coherent.
-4. Debug root causes instead of applying quick patches.
-5. Validate the logic with tests and review.
-6. Document the result for future maintenance.
-
----
-
-## Current Direction
-
-- Deepening my Odoo specialization
-- Building reusable Codex workflows for development
-- Improving module quality through testing and review habits
-- Combining backend engineering with practical automation
+1. Entender primero la necesidad del negocio.
+2. Construir la solución más pequeña y limpia posible.
+3. Mantener coherencia entre modelos, vistas y seguridad.
+4. Corregir causas raíz en lugar de aplicar parches rápidos.
+5. Validar la lógica con tests y revisión.
+6. Documentar el resultado para facilitar el mantenimiento futuro.
 
 ---
 
-## GitHub Analytics
+## Dirección Actual
+
+- Profundizando mi especialización en Odoo
+- Creando flujos reutilizables con Codex para desarrollo
+- Mejorando la calidad de módulos mediante testing y revisión
+- Combinando ingeniería backend con automatización práctica
+
+---
+
+## Analítica de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dayloc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dayloc&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayloc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayloc&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
 
-## Connect
+## Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dayloc-prieto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
