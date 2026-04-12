@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import json
-import math
 import os
 import urllib.parse
 import urllib.request
@@ -154,23 +153,43 @@ def build_top_langs_svg(language_totals: dict[str, int]) -> str:
 """
 
 
+def build_error_svg(title: str, message: str) -> str:
+    safe_title = xml_escape(title)
+    safe_message = xml_escape(message[:140])
+    return f"""<svg width="620" height="340" viewBox="0 0 620 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="{safe_title}">
+  <rect width="620" height="340" rx="24" fill="{CARD_BG}" />
+  <rect x="1" y="1" width="618" height="338" rx="23" stroke="{CARD_BORDER}" />
+  <text x="40" y="58" fill="{TEXT_MAIN}" font-size="28" font-weight="700" font-family="Segoe UI, Arial, sans-serif">{safe_title}</text>
+  <text x="40" y="108" fill="{TEXT_MUTED}" font-size="16" font-family="Segoe UI, Arial, sans-serif">No se pudo actualizar en esta ejecucion.</text>
+  <text x="40" y="148" fill="{TEXT_MAIN}" font-size="17" font-family="Segoe UI, Arial, sans-serif">Motivo:</text>
+  <text x="40" y="178" fill="{TEXT_MUTED}" font-size="15" font-family="Segoe UI, Arial, sans-serif">{safe_message}</text>
+  <text x="40" y="238" fill="{ACCENT}" font-size="15" font-family="Segoe UI, Arial, sans-serif">El workflow volvera a intentarlo automaticamente.</text>
+</svg>
+"""
+
+
 def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    try:
+        user = fetch_user(USERNAME)
+        repos = fetch_repos(USERNAME)
+        source_repos = [repo for repo in repos if not repo.get("fork") and not repo.get("archived")]
 
-    user = fetch_user(USERNAME)
-    repos = fetch_repos(USERNAME)
-    source_repos = [repo for repo in repos if not repo.get("fork") and not repo.get("archived")]
+        language_totals: dict[str, int] = {}
+        for repo in source_repos:
+            language = repo.get("language")
+            size = max(repo.get("size", 0), 1)
+            if not language:
+                continue
+            language_totals[language] = language_totals.get(language, 0) + size
 
-    language_totals: dict[str, int] = {}
-    for repo in source_repos:
-        language = repo.get("language")
-        size = max(repo.get("size", 0), 1)
-        if not language:
-            continue
-        language_totals[language] = language_totals.get(language, 0) + size
-
-    stats_svg = build_stats_svg(user, source_repos)
-    top_langs_svg = build_top_langs_svg(language_totals)
+        stats_svg = build_stats_svg(user, source_repos)
+        top_langs_svg = build_top_langs_svg(language_totals)
+    except Exception as exc:
+        error_message = f"{type(exc).__name__}: {exc}"
+        print(error_message)
+        stats_svg = build_error_svg("Estadisticas de GitHub", error_message)
+        top_langs_svg = build_error_svg("Lenguajes mas usados", error_message)
 
     (OUTPUT_DIR / "stats.svg").write_text(stats_svg, encoding="utf-8")
     (OUTPUT_DIR / "top-langs.svg").write_text(top_langs_svg, encoding="utf-8")
