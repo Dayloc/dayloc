@@ -96,14 +96,12 @@ Colección de skills para Codex orientadas a desarrollo, testing, revisión, deb
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dayloc&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Dayloc" />
+  <img src="./profile/stats.svg" alt="Estadísticas de GitHub de Dayloc" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayloc&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por Dayloc" />
+  <img src="./profile/top-langs.svg" alt="Lenguajes más usados por Dayloc" />
 </p>
-
-> Si esta sección no carga, el problema suele ser del servicio externo de estadísticas, no del README.
 
 ---
 

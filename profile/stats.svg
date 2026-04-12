@@ -1,0 +1,9 @@
+<svg width="620" height="340" viewBox="0 0 620 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Estadisticas de GitHub pendientes de generar">
+  <rect width="620" height="340" rx="24" fill="#0d1117" />
+  <rect x="1" y="1" width="618" height="338" rx="23" stroke="#30363d" />
+  <text x="40" y="58" fill="#e6edf3" font-size="28" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Estadisticas de GitHub</text>
+  <text x="40" y="96" fill="#8b949e" font-size="16" font-family="Segoe UI, Arial, sans-serif">Aun no generadas</text>
+  <text x="40" y="148" fill="#e6edf3" font-size="18" font-family="Segoe UI, Arial, sans-serif">Ejecuta el workflow "GitHub Stats" en Actions</text>
+  <text x="40" y="178" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">GitHub &gt; Actions &gt; GitHub Stats &gt; Run workflow</text>
+  <text x="40" y="228" fill="#58a6ff" font-size="15" font-family="Segoe UI, Arial, sans-serif">El workflow generara este SVG automaticamente.</text>
+</svg>

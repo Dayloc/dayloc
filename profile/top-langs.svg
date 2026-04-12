@@ -1,0 +1,12 @@
+<svg width="620" height="340" viewBox="0 0 620 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lenguajes mas usados pendientes de generar">
+  <rect width="620" height="340" rx="24" fill="#0d1117" />
+  <rect x="1" y="1" width="618" height="338" rx="23" stroke="#30363d" />
+  <text x="40" y="58" fill="#e6edf3" font-size="28" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Lenguajes mas usados</text>
+  <text x="40" y="96" fill="#8b949e" font-size="16" font-family="Segoe UI, Arial, sans-serif">Aun no generados</text>
+  <text x="40" y="148" fill="#e6edf3" font-size="18" font-family="Segoe UI, Arial, sans-serif">Ejecuta el workflow "GitHub Stats" en Actions</text>
+  <text x="40" y="178" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">Se sustituira por una tarjeta SVG real tras la primera ejecucion.</text>
+  <rect x="40" y="220" width="160" height="12" rx="6" fill="#58a6ff" />
+  <rect x="208" y="220" width="120" height="12" rx="6" fill="#a371f7" />
+  <rect x="336" y="220" width="96" height="12" rx="6" fill="#3fb950" />
+  <rect x="440" y="220" width="68" height="12" rx="6" fill="#f78166" />
+</svg>
