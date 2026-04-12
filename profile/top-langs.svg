@@ -1,12 +1,33 @@
-<svg width="620" height="340" viewBox="0 0 620 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lenguajes mas usados pendientes de generar">
-  <rect width="620" height="340" rx="24" fill="#0d1117" />
-  <rect x="1" y="1" width="618" height="338" rx="23" stroke="#30363d" />
+<svg width="620" height="360" viewBox="0 0 620 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lenguajes mas usados por Dayloc">
+  <rect width="620" height="360" rx="24" fill="#0d1117" />
+  <rect x="1" y="1" width="618" height="358" rx="23" stroke="#30363d" />
   <text x="40" y="58" fill="#e6edf3" font-size="28" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Lenguajes mas usados</text>
-  <text x="40" y="96" fill="#8b949e" font-size="16" font-family="Segoe UI, Arial, sans-serif">Aun no generados</text>
-  <text x="40" y="148" fill="#e6edf3" font-size="18" font-family="Segoe UI, Arial, sans-serif">Ejecuta el workflow "GitHub Stats" en Actions</text>
-  <text x="40" y="178" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">Se sustituira por una tarjeta SVG real tras la primera ejecucion.</text>
-  <rect x="40" y="220" width="160" height="12" rx="6" fill="#58a6ff" />
-  <rect x="208" y="220" width="120" height="12" rx="6" fill="#a371f7" />
-  <rect x="336" y="220" width="96" height="12" rx="6" fill="#3fb950" />
-  <rect x="440" y="220" width="68" height="12" rx="6" fill="#f78166" />
+  <text x="40" y="86" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">Calculado a partir del lenguaje principal y tamano de repositorios publicos</text>
+  <rect x="40" y="108" width="540" height="14" rx="7" fill="#161b22" />
+  <rect x="40.00" y="108" width="321.99" height="14" rx="7" fill="#58a6ff" /><rect x="361.99" y="108" width="209.86" height="14" rx="7" fill="#a371f7" /><rect x="571.85" y="108" width="8.15" height="14" rx="7" fill="#3fb950" /><rect x="580.00" y="108" width="0.00" height="14" rx="7" fill="#f78166" /><rect x="580.00" y="108" width="0.00" height="14" rx="7" fill="#d2a8ff" /><rect x="580.00" y="108" width="0.00" height="14" rx="7" fill="#ff7b72" />
+  
+            <circle cx="48" cy="157" r="6" fill="#58a6ff" />
+            <text x="64" y="162" fill="#e6edf3" font-size="16" font-family="Segoe UI, Arial, sans-serif">Python</text>
+            <text x="560" y="162" text-anchor="end" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">59.6%</text>
+            
+            <circle cx="48" cy="185" r="6" fill="#a371f7" />
+            <text x="64" y="190" fill="#e6edf3" font-size="16" font-family="Segoe UI, Arial, sans-serif">JavaScript</text>
+            <text x="560" y="190" text-anchor="end" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">38.9%</text>
+            
+            <circle cx="48" cy="213" r="6" fill="#3fb950" />
+            <text x="64" y="218" fill="#e6edf3" font-size="16" font-family="Segoe UI, Arial, sans-serif">HTML</text>
+            <text x="560" y="218" text-anchor="end" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">1.2%</text>
+            
+            <circle cx="48" cy="241" r="6" fill="#f78166" />
+            <text x="64" y="246" fill="#e6edf3" font-size="16" font-family="Segoe UI, Arial, sans-serif">TypeScript</text>
+            <text x="560" y="246" text-anchor="end" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">0.3%</text>
+            
+            <circle cx="48" cy="269" r="6" fill="#d2a8ff" />
+            <text x="64" y="274" fill="#e6edf3" font-size="16" font-family="Segoe UI, Arial, sans-serif">CSS</text>
+            <text x="560" y="274" text-anchor="end" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">0.0%</text>
+            
+            <circle cx="48" cy="297" r="6" fill="#ff7b72" />
+            <text x="64" y="302" fill="#e6edf3" font-size="16" font-family="Segoe UI, Arial, sans-serif">Vue</text>
+            <text x="560" y="302" text-anchor="end" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">0.0%</text>
+            
 </svg>
