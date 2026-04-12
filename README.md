@@ -21,9 +21,9 @@
 
 ---
 
-## Perfil Futurista
+## Mi Perfil
 
-Trabajo con mentalidad de constructor: entender el proceso, diseñar el modelo correcto, implementar la funcionalidad con claridad, validarla bien y dejarla más mantenible de lo que estaba antes.
+Trabajo con mentalidad de consistente: entender el proceso, diseñar el modelo correcto, implementar la funcionalidad con claridad, validarla bien y dejarla más mantenible de lo que estaba antes.
 
 Mi enfoque principal está en el desarrollo con Odoo:
 
