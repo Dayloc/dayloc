@@ -96,11 +96,11 @@ Colección de skills para Codex orientadas a desarrollo, testing, revisión, deb
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dayloc/dayloc/main/profile/stats.svg" alt="Estadísticas de GitHub de Dayloc" />
+  <img src="https://raw.githubusercontent.com/Dayloc/dayloc/main/profile/stats.svg?v=20260412b" alt="Estadísticas de GitHub de Dayloc" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dayloc/dayloc/main/profile/top-langs.svg" alt="Lenguajes más usados por Dayloc" />
+  <img src="https://raw.githubusercontent.com/Dayloc/dayloc/main/profile/top-langs.svg?v=20260412b" alt="Lenguajes más usados por Dayloc" />
 </p>
 
 ---
