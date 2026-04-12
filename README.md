@@ -2,10 +2,6 @@
   <img src="assets/odoo.png" alt="Banner Odoo de Dayloc" width="100%" />
 </p>
 
-<p align="center">
-  <img src="assets/yo.png" alt="Foto de Dayloc" width="170" />
-</p>
-
 <h1 align="center">Dayloc</h1>
 <h3 align="center">Desarrollador Odoo | Backend | Debugging | Automatización</h3>
 
