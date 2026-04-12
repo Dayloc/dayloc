@@ -98,11 +98,11 @@ Colección de skills para Codex orientadas a programación, testing, revisión, 
 ## Analítica de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dayloc&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dayloc&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayloc&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dayloc&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
