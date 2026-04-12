@@ -1,77 +1,116 @@
-# Hi, I'm Dayloc
+<div align="center">
+  <img src="./assets/odoo.png" alt="Dayloc Odoo Banner" width="100%" />
+</div>
 
-### Odoo Developer focused on clean modules, business logic, debugging, testing, and technical documentation
+<div align="center">
+  <img src="./assets/yo.png" alt="Dayloc" width="180" />
+</div>
 
-I build and improve Odoo solutions with a strong focus on maintainability, clear structure, and real business workflows. I also work on backend and full stack projects with Python, Flask, SQLAlchemy, JavaScript, and React.
+<h1 align="center">Dayloc</h1>
+<h3 align="center">Odoo Developer | Backend Builder | Debugging and Automation Mindset</h3>
 
----
+<p align="center">
+  <a href="https://github.com/Dayloc/Odoo"><img src="https://img.shields.io/badge/Main%20Focus-Odoo-6f42c1?style=for-the-badge" alt="Odoo" /></a>
+  <a href="https://github.com/Dayloc/skill-openia"><img src="https://img.shields.io/badge/Codex-Skills-0ea5e9?style=for-the-badge" alt="Codex Skills" /></a>
+  <a href="mailto:daylocyumar@gmail.com"><img src="https://img.shields.io/badge/Contact-Gmail-e11d48?style=for-the-badge" alt="Gmail" /></a>
+</p>
 
-## Main Focus
-
-- Odoo development and customization
-- Odoo module architecture
-- Models, fields, relationships, and business logic
-- Debugging install, XML, access, and runtime issues
-- Odoo testing, review, and documentation
-
----
-
-## About Me
-
-- Currently focused on Odoo development and specialized workflows for coding with Codex
-- Interested in building practical systems that are easy to maintain and scale
-- Also experienced with Flask, REST APIs, SQLAlchemy, JavaScript, and React
-- Portfolio: [Dayloc Portfolio](https://Dayloc.github.io/Port-Folio-1.1)
-- Contact: **daylocyumar@gmail.com**
+<p align="center">
+  Building Odoo systems with clean architecture, sharp debugging, maintainable modules, and a practical workflow for real business logic.
+</p>
 
 ---
 
-## Tech Stack
+## Futuristic Profile
 
-**Main skill:** Odoo  
-**Backend:** Python, Flask, SQLAlchemy  
-**Frontend:** JavaScript, TypeScript, React, HTML, CSS  
-**Tools:** Git, GitHub, VS Code, Postman, Insomnia, Figma  
+I work with a builder mindset: understand the process, design the right model, implement the feature cleanly, validate it, and leave it easier to maintain than before.
+
+My strongest focus is Odoo development:
+
+- Custom Odoo modules
+- Models, fields, and relationships
+- Business logic and backend workflows
+- XML views, access rules, and permissions
+- Debugging install, update, and runtime errors
+- Testing, review, and technical documentation
+
+---
+
+## Core Stack
+
+<table>
+  <tr>
+    <td><strong>Main Platform</strong></td>
+    <td>Odoo</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Python, Flask, SQLAlchemy</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>JavaScript, TypeScript, React, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Tooling</strong></td>
+    <td>Git, GitHub, VS Code, Postman, Insomnia, Figma</td>
+  </tr>
+</table>
 
 ---
 
 ## Featured Repositories
 
 ### [Odoo](https://github.com/Dayloc/Odoo)
-Main repository centered on Odoo work and development practice.
+Main repository centered on Odoo work, experimentation, and framework practice.
 
 ### [Peticiones-Odoo](https://github.com/Dayloc/Peticiones-Odoo)
-Repository related to Odoo requests and hands-on exercises around the framework.
+Hands-on Odoo repository focused on requests, exercises, and implementation practice.
 
 ### [AppointmentHealthCenter](https://github.com/Dayloc/AppointmentHealthCenter)
-REST API for managing medical appointments, patients, doctors, and reports with Flask and SQLAlchemy.
+Medical appointments API built with Flask and SQLAlchemy, showing backend structure and domain modeling.
 
 ### [skill-openia](https://github.com/Dayloc/skill-openia)
-Personal Codex skills repository with specialized agents for Odoo programming, testing, review, debugging, and documentation.
+Codex skills collection for Odoo programming, testing, review, debugging, and technical documentation.
 
 ---
 
-## Workflow
+## How I Work
 
-My preferred development flow for Odoo work is:
-
-1. Design the module or feature clearly
-2. Implement clean backend logic
-3. Validate with targeted tests
-4. Review structure and maintainability
-5. Debug root causes instead of patching symptoms
-6. Document the result for future developers
+1. Understand the business need first.
+2. Build the smallest clean solution.
+3. Keep models, views, and security coherent.
+4. Debug root causes instead of applying quick patches.
+5. Validate the logic with tests and review.
+6. Document the result for future maintenance.
 
 ---
 
-## GitHub Stats
+## Current Direction
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dayloc&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayloc&layout=compact&theme=tokyonight)
+- Deepening my Odoo specialization
+- Building reusable Codex workflows for development
+- Improving module quality through testing and review habits
+- Combining backend engineering with practical automation
 
 ---
 
-## Connect With Me
+## GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayloc-prieto)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daylocyumar@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dayloc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayloc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dayloc-prieto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:daylocyumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://Dayloc.github.io/Port-Folio-1.1"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
