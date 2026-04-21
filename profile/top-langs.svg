@@ -4,15 +4,15 @@
   <text x="40" y="58" fill="#e6edf3" font-size="28" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Lenguajes mas usados</text>
   <text x="40" y="86" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">Calculado a partir del lenguaje principal y tamano de repositorios publicos</text>
   <rect x="40" y="108" width="540" height="14" rx="7" fill="#161b22" />
-  <rect x="40.00" y="108" width="310.11" height="14" rx="7" fill="#58a6ff" /><rect x="350.11" y="108" width="222.04" height="14" rx="7" fill="#a371f7" /><rect x="572.15" y="108" width="7.85" height="14" rx="7" fill="#3fb950" /><rect x="580.00" y="108" width="0.00" height="14" rx="7" fill="#f78166" /><rect x="580.00" y="108" width="0.00" height="14" rx="7" fill="#d2a8ff" /><rect x="580.00" y="108" width="0.00" height="14" rx="7" fill="#ff7b72" />
+  <rect x="40.00" y="108" width="303.58" height="14" rx="7" fill="#58a6ff" /><rect x="343.58" y="108" width="228.73" height="14" rx="7" fill="#a371f7" /><rect x="572.31" y="108" width="7.69" height="14" rx="7" fill="#3fb950" /><rect x="580.00" y="108" width="0.00" height="14" rx="7" fill="#f78166" /><rect x="580.00" y="108" width="0.00" height="14" rx="7" fill="#d2a8ff" /><rect x="580.00" y="108" width="0.00" height="14" rx="7" fill="#ff7b72" />
   
             <circle cx="48" cy="157" r="6" fill="#58a6ff" />
             <text x="64" y="162" fill="#e6edf3" font-size="16" font-family="Segoe UI, Arial, sans-serif">Python</text>
-            <text x="560" y="162" text-anchor="end" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">57.4%</text>
+            <text x="560" y="162" text-anchor="end" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">56.2%</text>
             
             <circle cx="48" cy="185" r="6" fill="#a371f7" />
             <text x="64" y="190" fill="#e6edf3" font-size="16" font-family="Segoe UI, Arial, sans-serif">JavaScript</text>
-            <text x="560" y="190" text-anchor="end" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">41.1%</text>
+            <text x="560" y="190" text-anchor="end" fill="#8b949e" font-size="15" font-family="Segoe UI, Arial, sans-serif">42.4%</text>
             
             <circle cx="48" cy="213" r="6" fill="#3fb950" />
             <text x="64" y="218" fill="#e6edf3" font-size="16" font-family="Segoe UI, Arial, sans-serif">HTML</text>
